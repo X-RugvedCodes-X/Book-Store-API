@@ -92,5 +92,9 @@ Book-Store-API/
 │-- .gitignore        # Ignored files (node_modules, .env, etc.)
 ```
 
+---
+
+### [Use This VS Code Extension for Better Code Readablity](https://marketplace.visualstudio.com/items?itemName=ParthR2031.colorful-comments)
+
 ## Author
 ### Rugved Raorane - [Github Profile](https://github.com/X-RugvedCodes-X) 
